@@ -1,0 +1,3 @@
+Java çox maraqlıdır.
+BufferedWriter istifadə edirik.
+Sətir-sətir oxuyaq.
