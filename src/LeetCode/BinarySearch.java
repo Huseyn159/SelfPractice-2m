@@ -1,7 +1,14 @@
 package LeetCode;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class BinarySearch {
     class Solution {
+
+
+
+
         public int search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
@@ -17,7 +24,9 @@ public class BinarySearch {
 
             }
             return -1;
+
         }
+
 
 
     }
